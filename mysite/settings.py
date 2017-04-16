@@ -25,7 +25,7 @@ SECRET_KEY = '3xlab68)443l2m&amjghjhem0-^j)+911u42cqh$x_vjw-)0zk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fuaran.pythonanywhere.com']
+ALLOWED_HOSTS = [] #'fuaran.pythonanywhere.com'
 
 
 # Application definition
